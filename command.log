@@ -1,0 +1,161 @@
+Starting send_message.php script
+Form data: Array
+(
+    [users] => Array
+        (
+            [0] => Ionut Hiriscau
+        )
+
+    [message] => 4
+    [custom_message] => 
+    [message_source] => list
+    [closing_time] => 10
+    [email] => hiriscauflorin61@gmail.com
+    [password] => buna1234
+)
+
+Message to send: buna
+Starting send_message.php script
+Form data: Array
+(
+    [users] => Array
+        (
+            [0] => Ionut Hiriscau
+        )
+
+    [message] => 6
+    [custom_message] => 
+    [message_source] => list
+    [closing_time] => 10
+    [email] => hiriscauflorin61@gmail.com
+    [password] => buna1234
+)
+
+Message to send: yeey
+Starting send_message.php script
+Form data: Array
+(
+    [users] => Array
+        (
+            [0] => Ionut Hiriscau
+        )
+
+    [message] => 7
+    [custom_message] => 
+    [message_source] => list
+    [closing_time] => 10
+    [email] => hiriscauflorin61@gmail.com
+    [password] => buna1234
+)
+
+Message to send: alta
+Starting send_message.php script
+Form data: Array
+(
+    [users] => Array
+        (
+            [0] => Ionut Hiriscau
+        )
+
+    [message] => 7
+    [custom_message] => 
+    [message_source] => list
+    [closing_time] => 10
+    [email] => hiriscauflorin61@gmail.com
+    [password] => buna1234
+)
+
+Message to send: alta
+Starting send_message.php script
+Form data: Array
+(
+    [users] => Array
+        (
+            [0] => Ionut Hiriscau
+        )
+
+    [message] => 13
+    [custom_message] => 
+    [message_source] => list
+    [closing_time] => 10
+    [email] => hiriscauflorin61@gmail.com
+    [password] => buna1234
+)
+
+Message to send: eee
+Starting send_message.php script
+Form data: Array
+(
+    [users] => Array
+        (
+            [0] => Ionut Hiriscau
+        )
+
+    [message] => 13
+    [custom_message] => 
+    [message_source] => list
+    [closing_time] => 10
+    [email] => hiriscauflorin61@gmail.com
+    [password] => buna1234
+)
+
+Message to send: eee
+Starting send_message.php script
+Form data: Array
+(
+    [users] => Array
+        (
+            [0] => Ionut Hiriscau
+        )
+
+    [message] => 7
+    [custom_message] => 
+    [message_source] => list
+    [closing_time] => 10
+    [email] => hiriscauflorin61@gmail.com
+    [password] => buna1234
+)
+
+Message to send: alta
+Starting send_message.php script
+Form data: Array
+(
+    [users] => Array
+        (
+            [0] => Ionut Hiriscau
+        )
+
+    [message] => 10
+    [custom_message] => 
+    [message_source] => list
+    [closing_time] => 10
+    [email] => hiriscauflorin61@gmail.com
+    [password] => buna1234
+)
+
+Message to send: another message
+Saved users and message to JSON file
+Command: C:\Python312\python.exe C:\xampp\htdocs\linkedin\main.py hiriscauflorin61@gmail.com buna1234
+Command output: Loaded users: []
+Return var: 0
+Starting send_message.php script
+Form data: Array
+(
+    [users] => Array
+        (
+            [0] => Ionut Hiriscau
+        )
+
+    [message] => 10
+    [custom_message] => 
+    [message_source] => list
+    [closing_time] => 10
+    [email] => hiriscauflorin61@gmail.com
+    [password] => buna1234
+)
+
+Message to send: another message
+Saved users and message to JSON file
+Command: C:\Python312\python.exe C:\xampp\htdocs\linkedin\main.py hiriscauflorin61@gmail.com buna1234
+Command output: Loaded users: []
+Return var: 0
